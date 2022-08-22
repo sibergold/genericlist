@@ -1,0 +1,15 @@
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.csproj.AssemblyReference.cache
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.AssemblyInfoInputs.cache
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.AssemblyInfo.cs
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\genericlist\bin\Debug\net6.0\genericlist.exe
+C:\Users\OSMAN\genericlist\bin\Debug\net6.0\genericlist.deps.json
+C:\Users\OSMAN\genericlist\bin\Debug\net6.0\genericlist.runtimeconfig.json
+C:\Users\OSMAN\genericlist\bin\Debug\net6.0\genericlist.dll
+C:\Users\OSMAN\genericlist\bin\Debug\net6.0\genericlist.pdb
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.dll
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\refint\genericlist.dll
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.pdb
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\genericlist.genruntimeconfig.cache
+C:\Users\OSMAN\genericlist\obj\Debug\net6.0\ref\genericlist.dll
